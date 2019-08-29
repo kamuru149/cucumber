@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13299" started-at="2017-12-13T13:30:36Z" finished-at="2017-12-13T13:30:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13299" started-at="2017-12-13T13:30:36Z" finished-at="2017-12-13T13:30:49Z">
+      <class name="selenium.testNGEx">
+        <test-method status="PASS" signature="openbrowser()[pri:-4, instance:selenium.testNGEx@8a9f61]" name="openbrowser" duration-ms="2862" started-at="2017-12-13T19:00:36Z" finished-at="2017-12-13T19:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getPage()[pri:-3, instance:selenium.testNGEx@8a9f61]" name="getPage" duration-ms="3962" started-at="2017-12-13T19:00:39Z" finished-at="2017-12-13T19:00:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPage -->
+        <test-method status="PASS" signature="login()[pri:-2, instance:selenium.testNGEx@8a9f61]" name="login" duration-ms="6435" started-at="2017-12-13T19:00:43Z" finished-at="2017-12-13T19:00:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- selenium.testNGEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
